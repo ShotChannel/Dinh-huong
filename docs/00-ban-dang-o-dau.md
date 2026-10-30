@@ -35,10 +35,10 @@ Chưa cần quyết định hôm nay bạn theo nghề nào. Cần bắt đầu 
 → Giữ mục tiêu STM32, AI hay drone làm hướng đi, nhưng bước tiếp theo là Nền chung. Gần như ai cũng từng bắt đầu ở đây.
 
 **Điểm B — đã có nền cơ bản**
-- [ ] Viết được chương trình C có con trỏ và struct, tự nghĩ ra, không copy
-- [ ] Dùng được `cd`, `ls`, `cat`, cài được phần mềm, đọc hiểu thông báo lỗi
-- [ ] Tạo được branch, commit, mở được Pull Request
-- [ ] SSH được vào máy khác và chạy lệnh trên đó
+- [x] Viết được chương trình C có con trỏ và struct, tự nghĩ ra, không copy
+- [x] Dùng được `cd`, `ls`, `cat`, cài được phần mềm, đọc hiểu thông báo lỗi
+- [x] Tạo được branch, commit, mở được Pull Request
+- [x] SSH được vào máy khác và chạy lệnh trên đó
 
 → Chọn nền và mở file tương ứng.
 
